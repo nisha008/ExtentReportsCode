@@ -58,4 +58,22 @@ System.out.println("Add me 1");
 System.out.println("Add me part2");		
 
 	} 
+	
+	
+	
+	public void AddingTestcasesForGitHubMasterfromAmerica() {
+System.out.println("Add me 1");			
+		
+	
+}
+	
+	public void AddingTestcasesForGitHubpart2fromAmerica() {
+System.out.println("Add me part2");		
+
+	} 
+	
+	
+	
+	
+	
 }
