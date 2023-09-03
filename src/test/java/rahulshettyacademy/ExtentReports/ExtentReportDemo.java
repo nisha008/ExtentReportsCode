@@ -47,4 +47,15 @@ public class ExtentReportDemo {
 	}
 	
 
+	
+	public void AddingTestcasesForGitHubMaster() {
+System.out.println("Add me 1");			
+		
+	
+}
+	
+	public void AddingTestcasesForGitHubpart2master() {
+System.out.println("Add me part2");		
+
+	} 
 }
